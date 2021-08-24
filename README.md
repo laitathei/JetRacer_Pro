@@ -23,3 +23,12 @@ $ sudo nvpmodel -m1
 $ sudo nvpmodel -q
 ```
 The response of nano should be MODE : 5W
+
+### C. Train your own dataset
+1) Open ```interactive_regression.ipynb``` and click the cell sequentially
+2) After click all the cell, the view of the notebook will become like that
+![image](https://github.com/laitathei/JetRacer_Pro/blob/main/Image/shown.png)
+3) Open ```teleoperation.ipynb``` to control the car and move it around the track
+4) Keep clicking on the centre of the track on the left image and move the car via controller to different place to get the pictures
+5) Set epochs to 10 when collect enough data
+6) Click evaluate to view the model result and click save model button to save it
