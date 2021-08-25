@@ -39,7 +39,7 @@ The response of nano should be MODE : 5W
 
 ![image](https://github.com/laitathei/JetRacer_Pro/blob/main/Image/0.17_pwm.jpeg)
 
-3) ```follower_0.18_pwm.py``` for having car.throttle = 0.18
+3) ```follower_0.18_pwm.py``` for having car.throttle = 0.18 and the setting will shown below
 
 
 ![image](https://github.com/laitathei/JetRacer_Pro/blob/main/Image/0.18_pwm.jpeg)
