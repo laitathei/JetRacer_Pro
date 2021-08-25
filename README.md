@@ -32,3 +32,14 @@ The response of nano should be MODE : 5W
 4) Keep clicking on the centre of the track on the left image and move the car via controller to different place to get the pictures
 5) Set epochs to 10 when collect enough data
 6) Click evaluate to view the model result and click save model button to save it
+
+### D. Example
+1) Two example code are offered for reference, please refer your own situation to change PID parameter
+2) ```follower_0.17_pwm.py``` for having car.throttle = 0.17 and the setting will shown below
+
+![image](https://github.com/laitathei/JetRacer_Pro/blob/main/Image/0.17_pwm.jpeg)
+
+3) ```follower_0.18_pwm.py``` for having car.throttle = 0.18
+
+
+![image](https://github.com/laitathei/JetRacer_Pro/blob/main/Image/0.18_pwm.jpeg)
