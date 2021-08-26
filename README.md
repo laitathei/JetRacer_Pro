@@ -43,3 +43,6 @@ The response of nano should be MODE : 5W
 
 
 ![image](https://github.com/laitathei/JetRacer_Pro/blob/main/Image/0.18_pwm.jpeg)
+
+### E. Further develop
+1) The JetRacer Pro can implement with deep reinforcement learning, please refer to https://github.com/masato-ka/airc-rl-agent
