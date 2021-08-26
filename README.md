@@ -10,6 +10,7 @@
 3) Insert to Jetson Nano and power it up.
 
 ## B. Environmnet installation and setup
+**Please do not type sudo apt-get upgrade into terminal otherwise the camera cannot open and you may need to reflash the image again**
 *Please connect to a display and connect jetson nano to a network. Afterward, the OLED on JetRacer should be able to display the ip address of itself. If yes, you can contine the following step.*
 
 ![image](https://github.com/laitathei/JetRacer_Pro/blob/main/Image/pin.jpeg)
